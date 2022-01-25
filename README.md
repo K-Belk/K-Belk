@@ -1,4 +1,4 @@
-I am in the process of learing Full-Stack Development through Code Platoon. I have done some C++ programing in the past and am currently learning JavaScript and Python, but eager to learn more. I would love to collaborate on some projects as my skill grows. You can reach me on twitter @KevinLBelk
+I am in the process of learing Full-Stack Software Engineering through Code Platoon. I have done some C++ programing in the past and am currently learning JavaScript and Python, but eager to learn more. I would love to collaborate on some projects as my skill grows. You can reach me on twitter @KevinLBelk
 
 
 
