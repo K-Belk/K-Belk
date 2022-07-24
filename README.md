@@ -1,4 +1,4 @@
-I am in the process of learing Full-Stack Software Engineering through Code Platoon. I have done some C++ programing in the past and am currently learning JavaScript and Python, but eager to learn more. I would love to collaborate on some projects as my skill grows. You can reach me on twitter @KevinLBelk
+Military Veteran and Controls Technician of 5 years, turned Software Engineer. Expertise in programming new high speed stamping presses and integrating accessory equipment into automated processes to produce parts in excess of 2000 parts per minute with minimal human interaction. Passion for coding began in college, building small robots and various other projects with Arduino and Raspberry Pi, and has only grown since. I would love to collaborate on some projects as my skill grows. You can reach me on twitter @KevinLBelk
 
 
 
