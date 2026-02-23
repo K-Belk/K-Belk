@@ -1,4 +1,3 @@
-Just a tinkerer tinkering. I would love to collaborate on some projects as my skill grows.
 
 
 
